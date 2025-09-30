@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Recherche de fichiers KDE (Python)
+Exec=python3 /usr/local/bin/kde_python_file_search.py
+Icon=/home/cattac/.local/share/icons/kde_python_file_search.svg
+Terminal=false
+Categories=Utility;
